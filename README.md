@@ -8,7 +8,7 @@ Regression, and Random Forest were evaluated for their ability to classify Urdu 
 distinct categories.
 
 # Accuracies:
-MNB: 96.3% on internal test data and 96% on third-party test data.
+MNB: 96.3% on internal test data and 98% on third-party test data.
 
 Neural Networks: 95.6% on internal test data.
 
