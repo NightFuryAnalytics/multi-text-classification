@@ -7,6 +7,15 @@ media outlets, models such as Multinomial Naïve Bayes (MNB), Neural Networks, L
 Regression, and Random Forest were evaluated for their ability to classify Urdu content into
 distinct categories.
 
+# Accuracies:
+MNB: 96.3% on internal test data and 96% on third-party test data.
+
+Neural Networks: 95.6% on internal test data.
+
+Logistic Regression: 94.6% on internal test data.
+
+Random Forest: 84.2% on internal test data.
+
 # File Details:
 Scraping_NewsArticles: Contains the code we used for scraping.
 
