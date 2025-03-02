@@ -29,7 +29,7 @@ Model3_LogisticRegression: Contains implementation of Logistic Regression on the
 
 Model4_RandomForest: Contains implementation of Random Forest Classifier on the dataset.
 
-Final_Report: Contains research paper of our project.
+Research Paper: Contains comprehensive details of our study.
 
 
 
